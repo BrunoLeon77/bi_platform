@@ -1,0 +1,20 @@
+/* Copyright (c) Microsoft Corporation.
+Licensed under the MIT license. */
+
+section#text-container > div > p {
+    font: 1.2em "segoe ui", arial, sans-serif;
+}
+
+section#report-container {
+    height: calc(0.5625 * 61vw); /* 16:9 aspect ratio */
+}
+
+@media only screen and (max-width: 575px) {
+    section#report-container {
+        height: calc(0.5625 * 100vw); /* 16:9 aspect ratio */
+    }
+}
+
+iframe {
+    border: none;
+}

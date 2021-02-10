@@ -1,0 +1,13 @@
+{
+    "authenticationMode": "MasterUser",
+    "authorityUri": "https://login.microsoftonline.com/common/v2.0",
+    "scope": "https://analysis.windows.net/powerbi/api",
+    "apiUrl": "https://api.powerbi.com/",
+    "clientId": "c1f5cba9-52e0-4874-a5d9-8ca949516da5",
+    "workspaceId": "338e2098-523d-43ea-aea4-ce65e50a1d21",
+    "reportId": "0cfd07e3-c9c0-4a45-9ac0-843a02a2472b",
+    "pbiUsername": "adm@softlanti.com.br",
+    "pbiPassword": "@PowerSoft2020",
+    "clientSecret": "21612228-67db-430c-af4d-be779d0ee3d0",
+    "tenantId": ""
+}
